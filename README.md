@@ -40,6 +40,11 @@ LAB_Testing/
 └── README.md         # Este archivo
 ```
 
+## ScreenShots
+
+<img width="1512" height="982" alt="Screenshot 2026-08-04 at 5 49 07 PM" src="https://github.com/user-attachments/assets/d3884f17-450b-41b9-9290-1164be5a5795" />
+
+
 ## Tests
 
 El archivo `cart.test.js` contiene pruebas para:
